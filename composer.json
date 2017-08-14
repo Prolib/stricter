@@ -1,0 +1,13 @@
+{
+	"name": "prolib/stricter",
+	"require": {
+		"php": ">=7.1",
+		"nette/utils": "^3.0"
+	},
+	"minimum-stability": "alpha",
+	"autoload": {
+		"psr-4": {
+			"ProLib\\": ["src/"]
+		}
+	}
+}
